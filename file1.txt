@@ -1,2 +1,4 @@
 Hello world
 new hello world
+conflict 1
+conflict 2
