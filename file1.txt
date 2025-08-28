@@ -1,4 +1,4 @@
 Hello world
 new hello world
 conflict 1 feature tes1 test 2
-conflict 2 test2
+conflict 2 feature test1 test2
